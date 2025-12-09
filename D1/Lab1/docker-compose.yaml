@@ -8,7 +8,7 @@ services:
       - "6379:6379"
 
   python:
-    build: .
-    container_name: vishwacloudlab/pythonapp:v4-var
+    image: vishwacloudlab/pythonapp:v4-var
+    container_name: python-app
     depends_on:
       - redis
