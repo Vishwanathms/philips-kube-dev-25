@@ -1,0 +1,13 @@
+Service Accounts, RBAC
+Storage (SC, PV, PVC) 
+Probes – Readiness/Liveness 
+Horizontal Pod Autoscaler (HPA) Basics
+
+
+GitOps tools (ArgoCD vs Flux) 
+Helm/Kustomize pipelines
+Drift detection 
+HPA integration in GitOps 
+CI/CD promotion workflow
+Unified Helm Chart for Multi-Environment Deployment
+

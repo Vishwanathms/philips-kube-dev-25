@@ -1,0 +1,69 @@
+Day1 -- content 
+
+Service Accounts, RBAC
+Storage (SC, PV, PVC) 
+Probes – Readiness/Liveness 
+Horizontal Pod Autoscaler (HPA) Basics
+
+
+Last Day 
+
+Auto-Scaling for RabbitMQ (HPA based on CPU / Memory / Custom Metrics)
+RabbitMQ Queue Depth Metrics → KEDA Comparison
+Running Multiple Versions of Same Container"
+
+Day2  - Content 
+
+last day 
+Cluster Autoscaler concept
+Container Services Optimization by Node/Instance Type
+Spot node groups for workloads
+Manual Deployment via EKS Console (UI-based)"
+
+Ingress with Traefik/NGINX 
+Services (LB) 
+Blue/Green & Canary Deployments 
+Rolling updates and safe drains 
+
+
+Day3- Content 
+GitOps tools (ArgoCD vs Flux) 
+Helm/Kustomize pipelines
+Drift detection 
+HPA integration in GitOps 
+CI/CD promotion workflow
+Unified Helm Chart for Multi-Environment Deployment
+
+Day4 - Content 
+Memory Dump & Debugging from EKS Pods"
+Provisioning on-demand nodes 
+Backup/DR with etcd snapshot
+Container Services Optimization by Instance Type (more advanced continuation)
+Service mesh 
+NetworkPolicy 
+CRDs and Operators 
+Edge hardening
+IAM Roles for Service Accounts (IRSA), Image Scanning, Centralized Logging (ELK/EFK)" - -Day 5
+
+
+   Day 5 content in Day4 -- assignment 
+KubeVirt VM overview 
+PodSecurity & Image Scanning 
+Prometheus/Grafana dashboards 
+
+==============================
+Assignments -- 
+Karpenter vs Cluster Autoscaler 
+Node templates & taints 
+K3s (Edge) 
+Local registries & air-gapped distribution 
+
+
+
+
+
+
+
+
+
+
